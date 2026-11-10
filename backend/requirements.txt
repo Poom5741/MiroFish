@@ -34,3 +34,9 @@ python-dotenv>=1.0.0
 
 # 数据验证
 pydantic>=2.0.0
+
+# ============= MiroFly bridge (real fly-brain affect cores) =============
+# Only needed if you enable the MiroFly bridge (MIROFLY_INTEGRATION.md)
+numpy>=1.26
+pandas>=2.0
+pyarrow>=14.0
